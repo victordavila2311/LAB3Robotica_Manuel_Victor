@@ -59,7 +59,7 @@ Conociendo la posicion actual de la tortuga y mandando una velocidad en x e y ge
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://youtu.be/-qRDwdd-Kuo" target="_blank"><img src="https://github.com/victordavila2311/LAB3Robotica_Manuel_Victor/blob/main/imagenes%20lab%203/implementacion%20turtlematlab.png" 
+<a href="https://youtu.be/ZRr0-hAjZsA?si=3l5FAcoUWOSZy4Ye" target="_blank"><img src="https://github.com/victordavila2311/LAB3Robotica_Manuel_Victor/blob/main/imagenes%20lab%203/implementacion%20turtlematlab.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="300" border="10" /></a>
 </p>
 </div>
@@ -92,7 +92,7 @@ rosrun hello_turtle myTeleopKey.py
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://youtu.be/-qRDwdd-Kuo" target="_blank"><img src="https://github.com/victordavila2311/LAB3Robotica_Manuel_Victor/blob/main/imagenes%20lab%203/implementacion%20python.png" 
+<a href="https://youtu.be/ylNC2SfEnII?si=OuKKEfZ8RdTScuvZ" target="_blank"><img src="https://github.com/victordavila2311/LAB3Robotica_Manuel_Victor/blob/main/imagenes%20lab%203/implementacion%20python.png" 
 alt="IMAGE ALT TEXT HERE" width="700" height="250" border="10" /></a>
 </p>
 </div>
